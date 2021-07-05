@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     fontFamily: {
       Inconsolata: ["Inconsolata"],
+      SpaceMono: ["Space Mono"],
     },
     extend: {},
   },

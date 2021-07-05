@@ -1,11 +1,10 @@
 import "./App.css";
 import  Layout  from "./components/Layout";
+import NotFound from "./components/NotFound";
 function App() {
   return (
     <Layout>
-      <div className="App">
-        <h3 className="text-xl">Hello</h3>
-      </div>
+      <NotFound/>
     </Layout>
   );
 }
