@@ -6,7 +6,7 @@ export default class Navbar extends Component {
       <Fragment>
         <nav className="container my-5 ">
           <ul>
-            <li className="font-Inconsolata text-2xl uppercase ml-6">
+            <li className="font-Inconsolata text-gray-8   00 text-2xl uppercase ml-6">
               404 not found
             </li>
           </ul>
